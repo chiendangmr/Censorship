@@ -49,7 +49,7 @@
             // 
             // pnClip
             // 
-            this.pnClip.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            this.pnClip.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this.pnClip.BackColor = System.Drawing.Color.Silver;
             this.pnClip.Location = new System.Drawing.Point(0, 32);
@@ -70,7 +70,7 @@
             // 
             // pnRecord
             // 
-            this.pnRecord.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            this.pnRecord.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this.pnRecord.BackColor = System.Drawing.Color.Red;
             this.pnRecord.Location = new System.Drawing.Point(294, 22);
@@ -80,7 +80,7 @@
             // 
             // pnPlay
             // 
-            this.pnPlay.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            this.pnPlay.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this.pnPlay.BackColor = System.Drawing.Color.Teal;
             this.pnPlay.Location = new System.Drawing.Point(216, 22);
@@ -90,7 +90,7 @@
             // 
             // pnPreview
             // 
-            this.pnPreview.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            this.pnPreview.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this.pnPreview.BackColor = System.Drawing.Color.Navy;
             this.pnPreview.Location = new System.Drawing.Point(240, 22);
